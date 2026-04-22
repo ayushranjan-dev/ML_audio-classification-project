@@ -1,0 +1,8 @@
+.venv/
+.gradio/
+__pycache__/
+*.pyc
+saved_models/
+data/
+.env
+.DS_Store
